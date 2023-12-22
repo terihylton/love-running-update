@@ -16,12 +16,7 @@ body {
     color: #3a3a3a;
     font-family: 'Lato', sans-serif;
     flex: 1 0 auto;
-
-
 }
-
-
-
 header { 
     background-color: #ffffff;
     padding: 0 1rem;
@@ -32,8 +27,6 @@ header {
     display:flex;
     justify-content: space-between;
     align-items: baseline;
-
-
 }
 /*Nav toggle*/
 #nav-toggle:checked~nav { 
@@ -46,7 +39,6 @@ header {
 }
 *nav-toggle-label { 
     font-size: 2rem;
-
 }
 header a { 
     text-decoration: none;
@@ -101,8 +93,6 @@ main {
     flex: 1 0 auto;
     margin-top: 47px;
 
-
- 
 #hero { 
      height: 600px
      width 100%;
