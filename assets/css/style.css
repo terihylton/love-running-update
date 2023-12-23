@@ -117,9 +117,9 @@ main {
         padding-top: 40px;
         padding-left: 10px;
      }
-     #cover-text > h2, #cover-text > h3 {
-        #ffffff
-     }  
+     #cover-text > h2,#cover-text > h3 {
+        color:#ffffff
+     }
        /*Animates zoom effect on loading the page*/
     animation-name: hero-zoom;
     animation-duration: 5s;
