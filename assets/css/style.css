@@ -28,22 +28,23 @@ header {
     justify-content: space-between;
     align-items: baseline;
 }
-/*Nav toggle*/
-#nav-toggle:checked~nav { 
-    display:block;
 
-#nav-toggle { 
-    display:none;
-
-} 
-}
-*nav-toggle-label { 
-    font-size: 2rem;
-}
 header a { 
     text-decoration: none;
     color:inherit;
 
+}
+/*Nav toggle*/
+#nav-toggle:checked~nav { 
+    display:block;
+}
+#nav-toggle { 
+    display:none;
+
+} 
+
+*nav-toggle-label { 
+    font-size: 2rem;
 }
 h1 { 
     font-family: 'Oswald', sans-serif;
