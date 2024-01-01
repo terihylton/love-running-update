@@ -134,10 +134,7 @@ main {
      .hero_title > h2, .hero_address > h3 {
         color:#ffffff
      }
-       /*Animates zoom effect on loading the page*/
-    animation-name: hero-zoom;
-    animation-duration: 5s;
-    animation-fill-mode: forwards;
+    
       
       /*Creates the level of zoom for hero image*/
       @keyframes hero-zoom {
@@ -195,4 +192,3 @@ main {
     @media screen and (min-width:992px) {
     #menu a:hoover { border-bottom: 1px solid #3a3a3a;
     }
-    
