@@ -138,6 +138,16 @@ main {
 hr {
     border-top: 1px solid #3a3a3a;
 }
+#circle-cover-bg {
+    background: url('../images/reasons-image.webp') no-repeat top center / cover;
+    width: 90 vw;
+    height: 90 vw;
+    margin-bottom: 20px;
+    /* Make the square image into a circle */
+    border-radius: 50%; 
+    max-width: 300px;
+    max-height: 300px;
+}
 /* Footer */
 #social-networks {
     text-align: center;
