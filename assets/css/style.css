@@ -140,8 +140,8 @@ hr {
 }
 #circle-cover-bg {
     background: url('../images/reasons-image.webp') no-repeat top center / cover;
-    width: 90 vw;
-    height: 90 vw;
+    width: 90vw;
+    height: 90vw;
     margin-bottom: 20px;
     /* Make the square image into a circle */
     border-radius: 50%; 
