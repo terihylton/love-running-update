@@ -1,5 +1,6 @@
 {
     "GitpodVNC.openVNC": false,
     "GitpodVNC.startVNC": false,
-    "GitpodVNC.stopVNC": false
+    "GitpodVNC.stopVNC": false,
+    "liveServer.settings.port": 5501
 }
